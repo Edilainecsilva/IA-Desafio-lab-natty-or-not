@@ -14,7 +14,7 @@ Olá pessoal, Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da 
 ### IA Generativa - Aprendendo Italiano
 
 ## 📒 Descrição
-Olá pessoal, meu nome é Edilaine, e este projeto foi desenvolvido como parte do desafio proposto pela DIO. A proposta era explorar as potencialidades das tendências tecnológicas, com foco principal em IAs Generativas. O objetivo era utilizar essas tecnologias para criar conteúdos o mais realistas possível, abrangendo imagens, textos, áudios, vídeos ou combinações de tudo isso.
+Este projeto foi desenvolvido como parte do desafio proposto pela DIO. A proposta era explorar as potencialidades das tendências tecnológicas, com foco principal em IAs Generativas. O objetivo era utilizar essas tecnologias para criar conteúdos o mais realistas possível, abrangendo imagens, textos, áudios, vídeos ou combinações de tudo isso.
 
 ## 🤖 Tecnologias Utilizadas
 Durante o processo, realizei testes em várias plataformas, destacando aquelas que mais me surpreenderam e que utilizei neste vídeo:
