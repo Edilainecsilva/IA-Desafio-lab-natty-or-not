@@ -1,3 +1,4 @@
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
@@ -8,12 +9,9 @@ Olá pessoal, Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da 
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-2. 
-### Template
-
-```markdown
-# IA Generativa - Aprendendo Italiano
+**Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
+ 
+### IA Generativa - Aprendendo Italiano
 
 ## 📒 Descrição
 Olá pessoal, meu nome é Edilaine, e este projeto foi desenvolvido como parte do desafio proposto pela DIO. A proposta era explorar as potencialidades das tendências tecnológicas, com foco principal em IAs Generativas. O objetivo era utilizar essas tecnologias para criar conteúdos o mais realistas possível, abrangendo imagens, textos, áudios, vídeos ou combinações de tudo isso.
@@ -49,6 +47,6 @@ Agradeço a todos pelo apoio e Arrivederci!
 ## Links Interessantes
 
 [Colossyan](https://www.colossyan.com/)
-![Deepbrain AI](https://www.deepbrain.io/)
-![Elevenlabs io](https://elevenlabs.io/)
-![Clipchamp](https://clipchamp.com/pt-br/)
+[Deepbrain AI](https://www.deepbrain.io/)
+[Elevenlabs io](https://elevenlabs.io/)
+[Clipchamp](https://clipchamp.com/pt-br/)
