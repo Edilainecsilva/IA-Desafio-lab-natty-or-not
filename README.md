@@ -4,48 +4,51 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Olá pessoal, Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ### Objetivos
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
+2. 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA Generativa - Aprendendo Italiano
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Olá pessoal, meu nome é Edilaine, e este projeto foi desenvolvido como parte do desafio proposto pela DIO. A proposta era explorar as potencialidades das tendências tecnológicas, com foco principal em IAs Generativas. O objetivo era utilizar essas tecnologias para criar conteúdos o mais realistas possível, abrangendo imagens, textos, áudios, vídeos ou combinações de tudo isso.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Durante o processo, realizei testes em várias plataformas, destacando aquelas que mais me surpreenderam e que utilizei neste vídeo:
+- **ChatGPT:** para a elaboração do roteiro do vídeo.
+- **Colossyan e Deepbrain AI:** para a criação dos avatares, da cena e alguns áudios.
+- **Elevenlabs io:** para a conversão de texto em vozes.
+- **Clipchamp:** para a edição final do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro escrevi o roteiro com a ajuda do ChatGPT, depois fiz a montagem das cenas e escolha dos avatares e vozes para o vídeo. Nas platafarmos de criação de cenas, não consegui gerar vozes em dois idiomas ao mesmo tempo, então fiz a conversão dos textos em vozes do idioma italiano. E por fim fiz a edição final do vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link do vídeo: [IA GENERATIVA - APRENDENDO ITALIANO](https://www.youtube.com/watch?v=ybBdZivgA5o)
+
+![Captura de tela 2023-12-17 152308](https://github.com/Edilainecsilva/IA-Desafio-lab-natty-or-not/assets/112878712/d23dd6e8-60e0-448d-95fb-867875bc711b)
+
+![Captura de tela 2023-12-17 152235](https://github.com/Edilainecsilva/IA-Desafio-lab-natty-or-not/assets/112878712/4de5d305-57a2-47f6-ae25-44e0afdc7398)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
+A jornada foi incrível, evidenciando como essas tecnologias podem nos auxiliar no dia a dia, proporcionando experiências surpreendentemente realistas. A capacidade de criar avatares personalizados com nossas próprias vozes ou até mesmo incorporar nossos traços em avatares existentes é fascinante. Encontrei essa opção no HeyGen AI, embora não tenha incluído no vídeo. Pretendo me aprofundar ainda mais nessa área e talvez criar outro vídeo explicativo sobre o uso dessas ferramentas. As possibilidades são vastas.
 
-### Exemplos e Insigths
+Enfrentei um desafio ao tentar criar cenas que envolviam dois idiomas simultaneamente. Não consegui encontrar uma opção que permitisse a conversação em dois idiomas na mesma cena; é necessário definir um único idioma para todos os personagens durante toda a sequência. Isso resulta na pronúncia incorreta de palavras em outros idiomas. No entanto, acredito que pode haver uma solução que ainda não descobri.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+No âmbito do vídeo, busquei transmitir noções básicas de italiano, utilizando o ChatGPT como uma ferramenta valiosa, especialmente porque estou nos estágios iniciais do aprendizado do italiano. Reconheço que tenho muito a aprender ainda.
+
+Agradeço a todos pelo apoio e Arrivederci!
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[Colossyan](https://www.colossyan.com/)
+![Deepbrain AI](https://www.deepbrain.io/)
+![Elevenlabs io](https://elevenlabs.io/)
+![Clipchamp](https://clipchamp.com/pt-br/)
